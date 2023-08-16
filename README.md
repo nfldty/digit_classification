@@ -1,2 +1,1 @@
-# digit_classification
-Digit classification with deep learning
+# Digit classification with deep learning
